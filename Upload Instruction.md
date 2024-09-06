@@ -3,9 +3,11 @@
 **1. Use command cd to direct it to your folder location:** 
 
 *cd path/to/your/project*
+
 **2. Create Git Repository (if it has not created):**
 
 *git init*
+
 **3. Connect local repository with with Github repository:**
 
 *git remote add origin https://github.com/username/repository.git (replace with repository from Github link)*
