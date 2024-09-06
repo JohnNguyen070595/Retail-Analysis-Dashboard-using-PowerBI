@@ -10,5 +10,5 @@ Welcome to my **Retail Analysis Dashboard** created using Power BI. In this repo
 
 **Reflections and experience**
 
-For the full reading of my report, please access via this [link](https://medium.com/p/6244086f45cd/edit).
+For the full reading of my report, please access via this [link]([https://medium.com/p/6244086f45cd/edit](https://medium.com/@thachnguyen070595/retail-analysis-dashboard-report-6244086f45cd)).
 The full Dashboard in Power BI is shared [here](https://app.powerbi.com/reportEmbed?reportId=42412e9c-9343-4849-8898-ce8428d0ec12&autoAuth=true&ctid=66e44254-c0ce-4745-9255-907eee03faf6).
