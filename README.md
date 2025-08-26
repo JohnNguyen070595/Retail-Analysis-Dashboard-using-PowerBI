@@ -2,7 +2,7 @@
 
 Welcome to my **Retail Analysis Dashboard** created using Power BI. In this report, I will cover the following areas:
 
-**Charts used and techniques**
+
 
 **Key focus areas to gain insights**
 
