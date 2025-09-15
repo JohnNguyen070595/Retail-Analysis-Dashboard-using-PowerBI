@@ -4,7 +4,7 @@ Welcome to my **Retail Analysis Dashboard** created using Power BI. In this repo
 
 **Charts used and techniques**
 
-**Key focus areas to gain insights**
+
 
 **Dashboard insights**
 
